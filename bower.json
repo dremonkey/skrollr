@@ -1,0 +1,6 @@
+{
+  "name": "skrollr",
+  "homepage": "https://github.com/Prinzhorn/skrollr",
+  "version": "0.6.21",
+  "main": "dist/skrollr.min.js"
+}
